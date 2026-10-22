@@ -1,0 +1,17 @@
+.layout {
+  display: flex;
+  min-height: 100vh;
+}
+
+app-nav {
+  width: 240px;
+}
+
+main {
+  flex: 1;
+  padding: 24px;
+}
+footer {
+  display: flex;
+  justify-content: center;
+}
